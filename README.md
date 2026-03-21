@@ -1,225 +1,226 @@
 <!--
-╔══════════════════════════════════════════════════════════════╗
-║         README DE PERFIL - GITHUB PROFILE README             ║
-║   Reemplaza todo lo que esté entre [CORCHETES] con tu info   ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║              README DE PERFIL — VERSIÓN LUXURY                      ║
+║                                                                      ║
+║  INSTRUCCIONES RÁPIDAS:                                              ║
+║  1. Busca y reemplaza  YU  con tu usuario real de GitHub            ║
+║     (aparece múltiples veces — usa Ctrl+H para reemplazar todo)      ║
+║  2. Completa los campos marcados con  ←  en cada sección            ║
+║  3. Pega en tu repositorio YU/YU en GitHub y haz commit             ║
+╚══════════════════════════════════════════════════════════════════════╝
 -->
 
-<!-- ═══════════════════════════════════════════════════════════
-     ENCABEZADO PRINCIPAL
-     → Reemplaza [TU_NOMBRE_COMPLETO] con tu nombre real
-     → Reemplaza [TU_TITULO] con tu título (ej: Fullstack Developer)
-     → Reemplaza [TU_CIUDAD] y [TU_PAIS] con tu ubicación
-     ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════ ENCABEZADO LUXURY ════════════════════════════
+     Capsule Render genera el banner animado. Personaliza:
+       text=Yoiser+Stiven+Agualimpia+Dávila
+       desc=   → Tu título (usa %20 para espacios)
+       color=  → Degradado en formato 0:COLOR,100:COLOR
+     Más opciones: capsule-render.vercel.app
+     ════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,40:1a1a2e,70:16213e,100:0f3460&height=280&section=header&text=Tu%20Nombre%20Aquí&fontSize=62&fontColor=e2d9f3&fontAlignY=45&desc=Systems%20Engineer%20%7C%20Fullstack%20Developer&descSize=20&descAlignY=65&descFontColor=a78bfa&animation=fadeIn&stroke=a78bfa&strokeWidth=2" alt="header"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=[TU_NOMBRE_COMPLETO]&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=[TU_TITULO]%20•%20Systems%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<!-- ═══════════════════ BADGES ESTÁTICOS ═════════════════════════════
+     Estos badges son 100% estáticos — nunca fallan ni dan errores.
+     Cambia el texto entre %20 para personalizar el mensaje.
+     ════════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════
-     BADGES DE ESTADO / VISITAS
-     → El badge de visitas funciona automáticamente con tu usuario de GitHub
-     → Reemplaza [TU_USUARIO] con tu nombre de usuario en GitHub (en TODOS los badges)
-     ═══════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Estado-Disponible%20para%20proyectos-a78bfa?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0f0f1a" alt="status"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Enfoque-Fullstack%20Development-7c3aed?style=for-the-badge&logo=code&logoColor=white&labelColor=0f0f1a" alt="focus"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Colombia-%F0%9F%87%A8%F0%9F%87%B4-4c1d95?style=for-the-badge&labelColor=0f0f1a" alt="location"/>
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=[TU_USUARIO]&style=for-the-badge&color=6c63ff&label=VISITAS+AL+PERFIL)](https://github.com/[TU_USUARIO])
-[![GitHub followers](https://img.shields.io/github/followers/[TU_USUARIO]?style=for-the-badge&color=6c63ff&labelColor=0d1117&label=SEGUIDORES)](https://github.com/[TU_USUARIO]?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/[TU_USUARIO]?style=for-the-badge&color=6c63ff&labelColor=0d1117&label=ESTRELLAS)](https://github.com/[TU_USUARIO])
+<!-- ═══════════════════ TEXTO ANIMADO ════════════════════════════════
+     Personaliza las líneas dentro de lines= separándolas con +
+     Más opciones: readme-typing-svg.demolab.com
+     ════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=540&lines=Ingeniero+de+Sistemas+%F0%9F%8E%93;Desarrollador+Fullstack+%F0%9F%9A%80;Arquitectura+limpia+%26+buen+c%C3%B3digo+%E2%9C%A8;Apasionado+por+resolver+problemas+reales" alt="Typing SVG"/>
+</p>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     TYPING ANIMATION — frase dinámica en el perfil
-     → Personaliza el texto después de "lines=" con tus propias frases
-     → Separa cada frase con ";" dentro de las comillas
-     ═══════════════════════════════════════════════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=600&lines=Ingeniero+de+Sistemas+%F0%9F%8E%93;Desarrollador+Fullstack+%F0%9F%9A%80;Construyendo+el+futuro%2C+l%C3%ADnea+por+l%C3%ADnea+%E2%9C%A8;Apasionado+por+el+c%C3%B3digo+limpio+%F0%9F%A7%A0)](https://git.io/typing-svg)
-
-</div>
-
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
-     SECCIÓN: SOBRE MÍ
-     → Reemplaza cada punto con información real tuya
-     → Puedes agregar o eliminar ítems según tu perfil
-     ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════ SOBRE MÍ ══════════════════════════════════
+     El bloque TypeScript es decorativo con resaltado de sintaxis.
+     Edita cada campo entre comillas con tu información real.
+     ════════════════════════════════════════════════════════════════ -->
 
-## 👨‍💻 Sobre mí
+## 🧠 Sobre mí
 
 ```typescript
-const developer = {
-  name:       "[TU_NOMBRE]",
-  role:       "Fullstack Developer & Systems Engineer",
-  location:   "[TU_CIUDAD], [TU_PAIS] 🌎",
-  education:  "Ingeniería de Sistemas",
-  focus:      ["Web Development", "Backend Architecture", "Clean Code"],
-  currentlyLearning: ["[TECNOLOGÍA_1]", "[TECNOLOGÍA_2]"],
-  funFact:    "Creo que el mejor código es el que no necesita comentarios.",
-  available:  true // ← Cámbialo a false si no buscas proyectos
+const dev = {
+  nombre:      "Yoiser Stiven Agualimpia Dávila",            // ← escribe tu nombre
+  rol:         "Fullstack Developer",
+  educacion:   "Ingeniería de Sistemas",
+  ubicacion:   "Colombia 🇨🇴",
+  enfoque:     ["Clean Code", "APIs REST", "UI/UX", "Arquitectura de software"],
+  aprendiendo: ["Tecnología 1", "Tecnología 2"],  // ← lo que estudias ahora
+  buscando:    "Proyectos desafiantes con impacto real",
+  disponible:  true,
 };
 ```
 
 <br/>
 
-> *"Primero resuelve el problema. Luego, escribe el código."* — John Johnson
+> _"El buen código no solo funciona — se entiende, se mantiene y escala."_
 
 <br/>
 
-- 🎓 Estudiante / Egresado de **Ingeniería de Sistemas**
-- 🔭 Actualmente trabajando en **[TU_PROYECTO_ACTUAL]**
-- 🌱 Aprendiendo sobre **[TECNOLOGÍA_O_TEMA_DE_INTERÉS]**
-- 💡 Apasionado por el **diseño de software**, la **arquitectura limpia** y las **buenas prácticas**
-- 🤝 Abierto a colaborar en **proyectos open source** e iniciativas innovadoras
-- 📫 Contáctame en **[TU_EMAIL]**
+- 🎓 Estudiante de **Ingeniería de Sistemas**
+- 🔭 Construyendo: **[Tu proyecto actual]** ← reemplaza esto
+- 🌱 Aprendiendo: **[Tema o tecnología]** ← reemplaza esto
+- 💡 Me apasionan la **arquitectura limpia**, el **diseño de APIs** y las **buenas prácticas**
+- 🤝 Abierto a colaborar en proyectos **open source** con impacto real
+- 📬 Contáctame: **[tu@email.com]** ← reemplaza con tu correo
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
-     SECCIÓN: TECNOLOGÍAS Y HERRAMIENTAS
-     → Activa/desactiva los badges según tus habilidades reales
-     → Para agregar más: visita https://shields.io o https://skillicons.dev
-     ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════ TECNOLOGÍAS ══════════════════════════════════
+     skillicons.dev siempre funciona sin usuario.
+     Edita la lista después de i= con las tecnologías que realmente usas.
+     Lista completa: skillicons.dev
+     ════════════════════════════════════════════════════════════════ -->
 
-## 🛠️ Tecnologías & Herramientas
+## 🛠️ Stack tecnológico
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind&theme=dark" />
+<p align="center"><strong>Frontend</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma&theme=dark&perline=8" alt="frontend"/>
 </p>
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,spring,php,laravel&theme=dark" />
+<p align="center"><strong>Backend &amp; Bases de datos</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,mysql,postgresql,mongodb,redis&theme=dark&perline=8" alt="backend"/>
 </p>
 
-### 🗄️ Bases de datos
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite&theme=dark" />
+<p align="center"><strong>DevOps &amp; Herramientas</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark&perline=8" alt="tools"/>
 </p>
-
-### 🔧 DevOps & Herramientas
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman&theme=dark" />
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════
-     TIP: Para personalizar los iconos de skillicons.dev,
-     modifica la lista después de "i=" separando con comas.
-     Lista completa: https://skillicons.dev
-     ═══════════════════════════════════════════════════════════ -->
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
-     SECCIÓN: ESTADÍSTICAS DE GITHUB
-     → Reemplaza [TU_USUARIO] con tu nombre de usuario de GitHub
-     → Puedes cambiar el "theme" por: dark, radical, merko, gruvbox,
-       tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
-     ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════ ESTADÍSTICAS ═════════════════════════════════
+     ⚠️  PASO CRÍTICO: Reemplaza YU con tu usuario de GitHub (3 veces).
+         Si no lo cambias verás "Could not resolve user [YU]".
+     
+     Para cambiar el tema visual, reemplaza tokyonight por:
+     dark | radical | merko | gruvbox | onedark | cobalt | dracula
+     ════════════════════════════════════════════════════════════════ -->
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed" alt="stats"/>
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YU&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="langs"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YU&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=888&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[TU_USUARIO]&theme=tokyonight&hide_border=true&background=0d1117&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff" />
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════
-     GRÁFICO DE ACTIVIDAD — se genera automáticamente con tu usuario
-     ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=[TU_USUARIO]&bg_color=0d1117&color=6c63ff&line=6c63ff&point=ffffff&area=true&hide_border=true)](https://github.com/[TU_USUARIO])
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YU&bg_color=0d1117&color=a78bfa&line=7c3aed&point=e2d9f3&area=true&hide_border=true&area_color=4c1d95" alt="activity graph"/>
+</p>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
-     SECCIÓN: PROYECTOS DESTACADOS
-     → Reemplaza [TU_USUARIO] y [NOMBRE_REPO] con los datos reales
-     → Agrega una descripción corta e impactante para cada proyecto
-     → Puedes agregar tantas tarjetas como quieras (máx. 6 recomendado)
-     ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════ PROYECTOS DESTACADOS ══════════════════════════
+     OPCIÓN A (descomenta cuando tengas repos públicos reales):
+       Reemplaza YU y REPO1/REPO2 con tus datos reales.
+       El repo debe ser público para que la tarjeta funcione.
+     
+     OPCIÓN B (tabla manual — siempre visible, sin errores):
+       Rellena los campos directamente. Funciona de inmediato.
+     ════════════════════════════════════════════════════════════════ -->
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos destacados
 
-<div align="center">
+<!-- OPCIÓN A — tarjetas automáticas (descomenta cuando tengas repos) -->
+<!--
+<p align="center">
+  <a href="https://github.com/YU/REPO1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YU&repo=REPO1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="repo1"/>
+  </a>
+  <a href="https://github.com/YU/REPO2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YU&repo=REPO2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="repo2"/>
+  </a>
+</p>
+-->
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=[TU_USUARIO]&repo=[NOMBRE_REPO_1]&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9)](https://github.com/[TU_USUARIO]/[NOMBRE_REPO_1])
+<!-- OPCIÓN B — tabla manual: siempre visible, sin dependencias -->
 
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=[TU_USUARIO]&repo=[NOMBRE_REPO_2]&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9)](https://github.com/[TU_USUARIO]/[NOMBRE_REPO_2])
-
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=[TU_USUARIO]&repo=[NOMBRE_REPO_3]&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9)](https://github.com/[TU_USUARIO]/[NOMBRE_REPO_3])
-
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=[TU_USUARIO]&repo=[NOMBRE_REPO_4]&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9)](https://github.com/[TU_USUARIO]/[NOMBRE_REPO_4])
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════
-     SECCIÓN: LOGROS Y TROFEOS
-     → Se genera automáticamente desde GitHub
-     ═══════════════════════════════════════════════════════════ -->
-
-## 🏆 Trofeos de GitHub
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=[TU_USUARIO]&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/[TU_USUARIO])
-
-</div>
+| 🔮 Proyecto | 📋 Descripción | 🛠️ Stack | 🔗 |
+|:--|:--|:--|:--:|
+| **[Nombre del Proyecto 1]** | Breve descripción impactante del proyecto y su propósito | `React` `Node.js` `MongoDB` | [Ver →](https://github.com/YU/repo1) |
+| **[Nombre del Proyecto 2]** | Qué problema resuelve y qué lo hace especial | `Python` `FastAPI` `PostgreSQL` | [Ver →](https://github.com/YU/repo2) |
+| **[Nombre del Proyecto 3]** | Resultado o impacto concreto del proyecto | `Next.js` `TypeScript` `Docker` | [Ver →](https://github.com/YU/repo3) |
+| **[Nombre del Proyecto 4]** | Tecnología principal o innovación aplicada | `Java` `Spring Boot` `MySQL` | [Ver →](https://github.com/YU/repo4) |
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
-     SECCIÓN: CONTACTO Y REDES SOCIALES
-     → Reemplaza cada [PLACEHOLDER] con tus enlaces reales
-     → Elimina las redes que no uses
-     ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════ TROFEOS ════════════════════════════════════
+     Se genera automáticamente — solo necesitas reemplazar YU.
+     ════════════════════════════════════════════════════════════════ -->
+
+## 🏆 Logros
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YU&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="trophies"/>
+</p>
+
+---
+
+<!-- ═══════════════════ CONTACTO ══════════════════════════════════
+     Reemplaza cada URL con tu perfil real.
+     Elimina las líneas de redes que no uses.
+     ════════════════════════════════════════════════════════════════ -->
 
 ## 🌐 Conéctate conmigo
 
-<div align="center">
+<p align="center">
 
-<!-- LinkedIn → Reemplaza [TU_USUARIO_LINKEDIN] -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[TU_USUARIO_LINKEDIN])
+  <!-- LinkedIn → reemplaza TU-PERFIL-LINKEDIN -->
+  <a href="https://linkedin.com/in/TU-PERFIL-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0f1a" alt="LinkedIn"/>
+  </a>
+  &nbsp;
 
-<!-- Portafolio web → Reemplaza con tu URL -->
-[![Portfolio](https://img.shields.io/badge/Portafolio-6c63ff?style=for-the-badge&logo=firefox&logoColor=white)](https://[TU_SITIO_WEB].com)
+  <!-- Portafolio → reemplaza tu-sitio.com -->
+  <a href="https://tu-sitio.com">
+    <img src="https://img.shields.io/badge/Portafolio-a78bfa?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=0f0f1a" alt="Portfolio"/>
+  </a>
+  &nbsp;
 
-<!-- Correo electrónico → Reemplaza con tu email -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[TU_EMAIL])
+  <!-- Email → reemplaza tu@email.com -->
+  <a href="mailto:tu@email.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0f1a" alt="Email"/>
+  </a>
+  &nbsp;
 
-<!-- Twitter / X → Reemplaza [TU_USUARIO_TWITTER] -->
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[TU_USUARIO_TWITTER])
+  <!-- Twitter/X → reemplaza TU-USUARIO -->
+  <a href="https://twitter.com/TU-USUARIO">
+    <img src="https://img.shields.io/badge/Twitter%2FX-1D9BF0?style=for-the-badge&logo=x&logoColor=white&labelColor=0f0f1a" alt="Twitter"/>
+  </a>
 
-<!-- Instagram (opcional) → Reemplaza [TU_USUARIO_IG] -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[TU_USUARIO_IG])
-
-</div>
+</p>
 
 ---
 
-<!-- FOOTER WAVE - parte inferior decorativa -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<!-- FOOTER decorativo -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0a0a0a&height=130&section=footer" alt="footer"/>
+</p>
 
-<!-- ═══════════════════════════════════════════════════════════
-     CRÉDITO (opcional, puedes eliminarlo)
-     ═══════════════════════════════════════════════════════════ -->
-<div align="center">
-  <sub>⭐ Si te gustó mi perfil, ¡dale una estrella a alguno de mis repos!</sub>
-</div>
+<p align="center">
+  <sub>⭐ Si algo de mi trabajo te resulta útil, una estrella en el repo significa mucho.</sub>
+</p>

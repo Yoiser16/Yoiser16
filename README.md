@@ -1,6 +1,6 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yoiser%20Agualimpia&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20Full%20Stack%20%7C%20Cofundador%20de%20V%C3%B3rtice%20Digital&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Yoiser Agualimpia"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yoiser%20Agualimpia&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20Full%20Stack%20%7C%20Fundador%20de%20V%C3%B3rtice%20Digital&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Yoiser Agualimpia"/>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## 🚀 Sobre mí
 
-Soy desarrollador **Full Stack**, estudiante de **Ingeniería de Sistemas** en Uniremington (Medellín) y cofundador de **[Vórtice Digital](https://vorticedigital.site/)**. Me gusta entender cómo funciona un negocio por dentro y convertir sus problemas del día a día en software que trabaje por él: sistemas a la medida, procesos que se hacen solos y datos claros para decidir.
+Soy desarrollador **Full Stack**, estudiante de **Ingeniería de Sistemas** en Uniremington (Medellín) y fundador de **[Vórtice Digital](https://vorticedigital.site/)**. Me gusta entender cómo funciona un negocio por dentro y convertir sus problemas del día a día en software que trabaje por él: sistemas a la medida, procesos que se hacen solos y datos claros para decidir.
 
 - 🌀 **Vórtice Digital:** diseñamos y desarrollamos software a la medida, automatizaciones y dashboards para pymes y emprendedores.
 - 🛒 **E-commerce para una tienda de productos capilares:** tienda B2C pensada para móviles y SEO, con catálogo dinámico, filtros avanzados, pasarela de pago y dashboard administrativo, más un portal mayorista B2B para pedidos por volumen.
@@ -77,7 +77,7 @@ Soy desarrollador **Full Stack**, estudiante de **Ingeniería de Sistemas** en U
 ## 📌 Proyectos destacados
 
 <p align="center">
-  <a href="https://vorticedigital.site/"><img src="assets/vortice-logo.png" width="140" alt="Vórtice Digital"/></a>
+  <a href="https://vorticedigital.site/"><img src="https://github.com/user-attachments/assets/eb4eb258-942d-4764-85a8-b42ed70e6818" width="140" alt="Vórtice Digital"/></a>
 </p>
 
 <p align="center">
@@ -97,7 +97,7 @@ Soy desarrollador **Full Stack**, estudiante de **Ingeniería de Sistemas** en U
 
 ---
 
-## 🤝 Trabajemos juntos
+
 
 <p align="center">
   ¿Tienes un proceso que quieres automatizar o una idea que quieres convertir en software?<br/>
